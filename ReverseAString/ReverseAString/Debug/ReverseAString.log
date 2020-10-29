@@ -1,0 +1,3 @@
+﻿  ReverseAString.cpp
+C:\Users\vieuxnorris\source\repos\C++\C++ Data structures & algorithms\String\ReverseAString\ReverseAString\ReverseAString.cpp(12,10): warning C4101: 'B' : variable locale non référencée
+  ReverseAString.vcxproj -> C:\Users\vieuxnorris\source\repos\C++\C++ Data structures & algorithms\String\ReverseAString\Debug\ReverseAString.exe
